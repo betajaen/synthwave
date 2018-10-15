@@ -1,0 +1,1 @@
+vc -sc -sd -O2 -lamiga -lvc -nostdlib -I"$VBCC/NDK39/Include/include_i" -I"include" source/*.c source/*.s -c
