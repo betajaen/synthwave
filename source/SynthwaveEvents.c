@@ -1,6 +1,5 @@
+#include <synthwave/synthwave.h>
 #include <synthwave/events.h>
-#include <synthwave/memory.h>
-#include <synthwave/assert.h>
 
 #include <proto/exec.h>
 

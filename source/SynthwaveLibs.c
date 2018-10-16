@@ -1,5 +1,4 @@
 #include <synthwave/synthwave.h>
-#include <synthwave/assert.h>
 
 #include <proto/exec.h>
 
